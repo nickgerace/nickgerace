@@ -1,5 +1,4 @@
-### Hi, I'm Nick!
-
-- 🌱 My website and blog: [nickgerace.dev](https://nickgerace.dev)
-- 📫 How to reach me: [Email](mailto:nickgerace@hey.com) or [Twitter](https://twitter.com/nickgeracehacks)
-- 😄 Pronouns: [he/him/his](https://pronoun.is/he)
+[![https://img.shields.io/badge/-https://nickgerace.dev-gray?style=for-the-badge&logo=linux](https://nickgerace.dev)]
+[![https://img.shields.io/badge/-%40nickgeracehacks-gray?style=for-the-badge&logo=twitter](https://twitter.com/nickgeracehacks)]
+[![https://img.shields.io/badge/-%40nickgerace-gray?style=for-the-badge&logo=linkedin](https://linkedin.com/in/nickgerace)]
+![https://img.shields.io/badge/-nick-'at'-hey.com-gray?style=for-the-badge&logo=hey]
