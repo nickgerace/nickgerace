@@ -1,1 +1,1 @@
-[![Ferris, the Rustacean](https://rustacean.net/more-crabby-things/dancing-ferris.gif)](https://www.rust-lang.org/)
+[<img src="https://rustacean.net/more-crabby-things/dancing-ferris.gif" alt="Ferris, the Rustacean" height="200"/>](https://rust-lang.org/)
