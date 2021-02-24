@@ -1,5 +1,1 @@
-👋 [nickgerace.dev](https://nickgerace.dev)
-
-🐦 [@nickgeracehacks](https://twitter.com/nickgeracehacks)
-
-📥 nickgerace 'at' hey 'dot' com
+[![Ferris, the Rustacean](https://rustacean.net/more-crabby-things/dancing-ferris.gif)](https://www.rust-lang.org/)
