@@ -1,1 +1,1 @@
-[nickgerace.dev](https://nickgerace.dev)
+**[nickgerace.dev](https://nickgerace.dev)**
